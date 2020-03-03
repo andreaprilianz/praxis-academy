@@ -1,3 +1,26 @@
+Skip to content
+Why GitHub? 
+Enterprise
+Explore 
+Marketplace
+Pricing 
+Search
+
+Sign in
+Sign up
+zakkysykes
+/
+praxis-academy
+100
+ Code Issues 0 Pull requests 0 Actions Projects 0 Security Insights
+Join GitHub today
+GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.
+
+praxis-academy/kemampuan-dasar/kemampuan-dasar-1/latihan/cmdline.txt
+@zakkysykes zakkysykes second
+4c670e4 3 minutes ago
+508 lines (359 sloc)  19.2 KB
+  
 Microsoft Windows [Version 10.0.18362.657]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
@@ -495,7 +518,7 @@ C:\Users\anon>rpcinfo
 operable program or batch file.
 
 C:\Users\anon>time /t
-10:38 PM
+22.51 PM
 
 C:\Users\anon>where /r bitmap.png
 ERROR: Invalid syntax. Default argument is missing.
@@ -506,3 +529,15 @@ C:\Users\anon>call checknew
 operable program or batch file.
 
 C:\Users\anon>
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<01-02>",
+            "request": "launch",
+            "mainClass": "Latihan1.App",
+            "projectName": "01-02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<01-02>(1)",
+            "request": "launch",
+            "mainClass": "contohkasus.App",
+            "projectName": "01-02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BicycleDemo<01-02>",
+            "request": "launch",
+            "mainClass": "latihan2.BicycleDemo",
+            "projectName": "01-02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExceptionThrown<01-02>",
+            "request": "launch",
+            "mainClass": "latihan3.ExceptionThrown",
+            "projectName": "01-02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GFG<01-02>",
+            "request": "launch",
+            "mainClass": "latihan3.GFG",
+            "projectName": "01-02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Testing<01-02>",
+            "request": "launch",
+            "mainClass": "latihan3.Testing",
+            "projectName": "01-02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TipeData",
+            "request": "launch",
+            "mainClass": "TipeData"
+        }
+    ]
+}

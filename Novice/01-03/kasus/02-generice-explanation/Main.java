@@ -1,4 +1,4 @@
-public class Main
+class Main
 {
     public static void main(String[] args) {
         GroceryStore store = new GroceryStore();

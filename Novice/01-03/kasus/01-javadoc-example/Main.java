@@ -18,7 +18,7 @@ import java.lang.annotation.RetentionPolicy;
     String Expirydate();
 }
 
-public class Test
+class Test
 {
     /**
     * PrintLn Test method 1
@@ -50,3 +50,4 @@ public class Test
         */
         System.out.println("Hello");
     }
+}
